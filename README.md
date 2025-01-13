@@ -1,2 +1,2 @@
 # Magic-Pocket
-A tool kit similar to Doraemon's magic pocket.
+A toolkit similar to Doraemon's magic pocket.
